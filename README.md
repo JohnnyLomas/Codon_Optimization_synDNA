@@ -1,5 +1,5 @@
 # Codon optimization for DNA synthesis
-A set of scripts reliant on [BioPython](https://biopython.org/) and [DNAChisel](https://edinburgh-genome-foundry.github.io/DnaChisel/) to perfrom codon optimization with the dual objectives of efficent translation and efficent DNA synthesis. Sequences are optimized towards the fastest translating codons while avoiding common motifs that inhibit DNA synthesis.
+A set of scripts reliant on [BioPython](https://biopython.org/) and [DNAChisel](https://edinburgh-genome-foundry.github.io/DnaChisel/) to perform codon optimization with the dual objectives of efficent translation and efficent DNA synthesis. Sequences are optimized towards the fastest translating codons while avoiding common motifs that inhibit DNA synthesis.
 
 Avoided motifs include:
 - Repeated K-mers
